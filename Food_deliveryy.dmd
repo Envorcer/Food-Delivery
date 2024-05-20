@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Food_deliveryy" id="6161594B-6324-0562-739D-D8F4B5AE65D0" version="3.5">
+<createdBy>LENOVO</createdBy>
+<createdTime>2024-05-19 09:06:48 UTC</createdTime>
+<ownerDesignName>Food_deliveryy</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6161594B-6324-0562-739D-D8F4B5AE65D0</designId>
+</OSDM_Design>
